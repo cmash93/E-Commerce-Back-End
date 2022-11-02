@@ -45,7 +45,7 @@
     ·
     <a href="https://github.com/cmash93/E-Commerce-Back-End/issues">Request Feature</a>
         ·
-    <a href="https://drive.google.com/file/d/164IbRzLq1_eqfOmDcxXObJsHEbbTKrdK/view">Video Walkthrough</a>
+    <a href="https://drive.google.com/file/d/164IbRzLq1_eqfOmDcxXObJsHEbbTKrdK/view" target="blank">Video Walkthrough</a>
   </p>
 </div>
 
