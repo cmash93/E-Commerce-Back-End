@@ -1,7 +1,7 @@
 {
-  "name": "module-13-challenge-orm",
+  "name": "e-commerce-backend-application",
   "version": "1.0.0",
-  "description": "",
+  "description": "The backend functions of an E-Commerce application",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,11 +11,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@work.github.com:coding-boot-camp/module-13-challenge-orm.git"
+    "url": "https://github.com/cmash93/E-Commerce-Back-End.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": ["node.js", "e-commerce", "express.js", "mysql", "sequelize"],
+  "author": "Courtney Ashley",
+  "license": "MIT",
   "devDependencies": {
     "nodemon": "^2.0.3"
   },
